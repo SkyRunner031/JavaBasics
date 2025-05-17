@@ -71,7 +71,7 @@ public class DoWhileLoopExample {
 
 
 # *** ARRAYS! ***
-##
+
 
 ### When using Arrays, import them:
 ```
