@@ -1,4 +1,4 @@
-#
+
 # *** LOOPS! ***
 ###### Control Structure to execute code for multiple instances within a range, until a condition is met
 
@@ -69,7 +69,7 @@ public class DoWhileLoopExample {
 
 
 
-# 
+
 # *** ARRAYS! ***
 ##
 
